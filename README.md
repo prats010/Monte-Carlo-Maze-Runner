@@ -38,8 +38,8 @@ Follow these steps to get the project running on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/monte-carlo-maze-runner.git](https://github.com/yourusername/monte-carlo-maze-runner.git)
-cd monte-carlo-maze-runner
+git clone [https://github.com/prats010/Monte-Carlo-Maze-Runner.git](https://github.com/prats010/Monte-Carlo-Maze-Runner.git)
+cd Monte-Carlo-Maze-Runner
 2. Install DependenciesEnsure you have Python installed, then run:Bashpip install numpy scipy sqlalchemy streamlit plotly pandas
 3. Initialize the DatabaseRun the database script once to create the maze_runner.db file and the necessary tables.Bashpython database.py
 4. Launch the AppStart the Streamlit server:Bashstreamlit run app.py
